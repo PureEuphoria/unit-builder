@@ -1,0 +1,8 @@
+# Lock files
+*-lock.json
+
+# Node Modules
+node_modules
+
+# Build directory
+dist
